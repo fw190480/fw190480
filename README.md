@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
-<img src="https://user-images.githubusercontent.com/103633895/199169126-abefac15-252d-462c-a9f2-b3a8a2107e1c.gif" />
-<img align="right" src="https://user-images.githubusercontent.com/103633895/199169557-09510a17-823c-4444-af1c-ea298421dc28.gif" />
+<!-- <img src="https://user-images.githubusercontent.com/103633895/199169126-abefac15-252d-462c-a9f2-b3a8a2107e1c.gif" /> -->
+<img align="center" src="https://user-images.githubusercontent.com/103633895/199169557-09510a17-823c-4444-af1c-ea298421dc28.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fw190480&label=Profile%20views&color=0e75b6&style=flat" alt="fw190480" /> </p>
 
