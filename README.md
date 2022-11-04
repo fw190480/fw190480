@@ -1,11 +1,18 @@
+![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
+
+
+
 <!-- <img src="https://user-images.githubusercontent.com/103633895/199169126-abefac15-252d-462c-a9f2-b3a8a2107e1c.gif" /> -->
 <img align="center" src="https://user-images.githubusercontent.com/103633895/199169557-09510a17-823c-4444-af1c-ea298421dc28.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fw190480&label=Profile%20views&color=0e75b6&style=flat" alt="fw190480" /> </p>
+# 💫 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fw190480" alt="fw190480" /></a> </p>
+A passionate Full-stack-developer, able to produce production ready code using frontend and backend technologies. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
+<br><br>
+
 
 - 🔭 I’m currently working to clone [Booking.com](https://github.com/fw190480/dynamic_fork_8477)
 
@@ -19,7 +26,6 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1rFA3FnAwDh5TESD2OSu7WYgrvYtd7XB6/view?usp=sharing](https://drive.google.com/file/d/1rFA3FnAwDh5TESD2OSu7WYgrvYtd7XB6/view?usp=sharing)
 
-- ⚡ Hobbies **Coding | Playing Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
