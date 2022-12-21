@@ -16,9 +16,9 @@ A passionate Full-stack-developer, able to produce production ready code using f
 
 - 🔭 I’m currently working to clone [Booking.com](https://github.com/fw190480/dynamic_fork_8477)
 
-- 👨‍💻 All of my projects are available at [https://github.com/fw190480](https://github.com/fw190480)
+- 👨‍💻 All of my projects are available at [https://github.com/rahulkr-dev](https://github.com/rahulkr-dev)
 
-- 📝 See my portfollio [https://fw190480.github.io/](https://fw190480.github.io/)
+- 📝 See my portfollio [https://rahulkr-dev.github.io/](https://rahulkr-dev.github.io/)
 
 - 💬 Ask me about **nodeJs,reactJS,javaScript**
 
