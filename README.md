@@ -31,7 +31,7 @@ A passionate Full-stack-developer, able to produce production ready code using f
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/rahulkr-dev" target="_blank">
+<a href="https://github.com/rahulkr-dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-850b39232/" target="_blank">
